@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NAudio.Wave;
+
+//refrence: https://stackoverflow.com/questions/26254182/integrate-audio-and-filter-method
+
 namespace WindowsFormsApplication1
 {
     public class EditWave
