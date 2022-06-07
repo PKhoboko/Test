@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using NAudio.Wave;
-
+//reference: https://www.codeproject.com/Articles/3382/Programming-Audio-Effects-in-C-2
 namespace WindowsFormsApplication1
 {
     public partial class Edit_Session : Form
