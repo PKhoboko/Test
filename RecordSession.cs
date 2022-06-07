@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using NAudio.CoreAudioApi;
 using System.Threading;
-
+// reference: https://www.youtube.com/watch?v=q9cRZuosrOs
 namespace WindowsFormsApplication1
 {
     public partial class RecordSession : Form
