@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//reference: https://stackoverflow.com/questions/963663/change-audio-format-in-c-sharp
 namespace WindowsFormsApplication1
 {
     public partial class Mastering : Form
