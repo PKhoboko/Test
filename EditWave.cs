@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using NAudio.Wave;
 
-//refrence: https://stackoverflow.com/questions/26254182/integrate-audio-and-filter-method
+//reference youtube: https://stackoverflow.com/questions/26254182/integrate-audio-and-filter-method
+//reference youtube: https://www.youtube.com/watch?v=8ULusFt1Wys
 
 namespace WindowsFormsApplication1
 {
