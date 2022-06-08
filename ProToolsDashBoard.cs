@@ -24,8 +24,8 @@ namespace WindowsFormsApplication1
 
         private void btnEdit_Click(object sender, EventArgs e)
         {
-            Edit_Session es = new Edit_Session();
-            es.Show();
+            Edit_Session se = new Edit_Session();
+            se.Show();
             
         }
 
